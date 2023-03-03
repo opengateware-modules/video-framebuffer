@@ -1,0 +1,23 @@
+#####################################################################
+# SPDX-License-Identifier: CC0-1.0
+# SPDX-FileType: OTHER
+# SPDX-FileCopyrightText: (c) 2023, OpenGateware authors and contributors
+#####################################################################
+# Names should be added to this file as:
+# Name or Organization <email address>
+# eg: git log --pretty="%aN <%aE>%n%cN <%cE>" | sort | uniq
+#
+# Core Team Members
+# Current project authors, maintainers and contributors.
+#####################################################################
+Marcus Andrade <marcus@opengateware.org>
+
+#####################################################################
+# List of people who authored and/or contributed code to the
+# Original VHDL code
+#
+# Thanks to all for their valuable
+# time/code/hints/fixes/discussions and contributions.
+#####################################################################
+Oduvaldo Pavan Junior <ducasp@gmail.com>
+Victor Trucco <victor.trucco@gmail.com>

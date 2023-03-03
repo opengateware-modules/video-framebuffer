@@ -1,0 +1,22 @@
+{
+    "name": "video-framebuffer",
+    "type": "module",
+    "description": "Video Framebuffer",
+    "author": "Marcus Andrade <marcus@opengateware.org>",
+    "homepage": "https://github.com/opengateware-modules/video-framebuffer",
+    "bugs": "https://github.com/opengateware-modules/video-framebuffer/issues",
+    "version": "1.0.0",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "video",
+        "framebuffer",
+        "scandoubler",
+        "bram",
+        "scaler",
+        "vga",
+        "xga",
+        "wvga",
+        "ecosystem:gateman",
+        "gateman:module"
+    ]
+}
